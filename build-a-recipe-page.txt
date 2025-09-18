@@ -1,0 +1,47 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Jollof Rice Recipe</title>
+  </head>
+  <body>
+    <h1>Jollof Rice</h1>
+
+    <p>
+      This simple Jollof Rice recipe delivers fluffy, rich, tomato‑based rice with
+      minimal fuss—perfect for weeknights or gatherings.
+    </p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 cups long‑grain rice (rinsed)</li>
+      <li>1 cup tomato puree (or blended fresh tomatoes)</li>
+      <li>1 medium onion, finely chopped</li>
+      <li>2 tablespoons vegetable oil</li>
+      <li>1 teaspoon curry powder</li>
+      <li>1 teaspoon dried thyme</li>
+      <li>1–2 cups chicken or vegetable stock</li>
+      <li>Salt and pepper to taste</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Heat oil in a pot over medium heat; sauté onions until soft.</li>
+      <li>Stir in tomato puree; simmer 5–7 minutes to reduce and deepen flavor.</li>
+      <li>Add curry, thyme, salt, pepper, and stock; bring to a gentle boil.</li>
+      <li>Stir in rinsed rice; reduce heat to low, cover, and cook until tender.</li>
+      <li>Fluff with a fork; adjust seasoning and serve warm.</li>
+    </ol>
+
+    <img
+      src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg"
+      alt="A plate of delicious rice garnished with herbs"
+    />
+  </body>
+</html>
+
+
+** end of index.html **
+

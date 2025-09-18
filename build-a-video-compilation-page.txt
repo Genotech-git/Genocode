@@ -1,0 +1,54 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main> 
+        <h1> Video Compilation </h1>
+        <p> Video clip</p>
+        <section>
+            <h2> Introduction Video</h2>
+            <p> This short clip gives an overview on how to connet RJ45 with ethernet cable</p> 
+            <iframe src= "https://www.youtube.com/shorts/OVKXbyxkN3M"
+      title="Introduction Video"
+       width= "368"
+      height= "220"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+    </section>
+        <section> 
+            <h2>Introductio to IP Camera</h2>
+    <p>This short clip gives an overview on how to connet an IP Camera.</p>
+    <iframe src= "https://www.youtube.com/shorts/mBuRR8xIiyQ"
+      title="Introduction Video"
+      width= "368"
+      height= "220"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+    </section>
+        <section> 
+            <h2>Phyton Zero to hero</h2>
+             <p>Phyton tutorial for beginners</p>
+            <iframe src= "https://www.youtube.com/shorts/OVKXbyxkN3M"
+            title="Introduction Video"
+            width= "368"
+         height= "220"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+    </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
